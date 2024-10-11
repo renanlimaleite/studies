@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="v-NSc_a17lzua8ZPdPV9">
-    <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ghX556LVwRt2pYmYrKnP-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1350" width="1180" height="690" as="geometry" />
+        </mxCell>
         <mxCell id="ghX556LVwRt2pYmYrKnP-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="580" width="670" height="310" as="geometry" />
         </mxCell>
@@ -48,6 +51,121 @@
         </mxCell>
         <mxCell id="ghX556LVwRt2pYmYrKnP-19" value="Logo o &lt;font color=&quot;#2cff14&quot;&gt;&lt;b&gt;&lt;u&gt;CRIADOR DE GISTS&lt;/u&gt;&lt;/b&gt; &lt;/font&gt;é a nossa persona para assinar nosso&amp;nbsp;&lt;b&gt;OnlyGists e vender o link para galerinha&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="750" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="980" width="670" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;B2C ou B2B (Business to Customer ou Business to Business&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1000" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;OnlyGists&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1110" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-26" value="B2C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-28" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Busca de sociedade (contratos de cliff, vesting, media for equity)&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1360" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-31" value="DA BOM ASSIM" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghX556LVwRt2pYmYrKnP-29" target="ghX556LVwRt2pYmYrKnP-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="674" y="1460" />
+              <mxPoint x="674" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-29" value="pilhado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1410" width="54" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-30" value="pilhado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="772" y="1410" width="54" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-37" value="MODELO VESTING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1625" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-38" value="DEPOIS DE 4 ANOS&amp;nbsp;&lt;div&gt;VOCÊ PODE ADQUIRIR 50% DA EMPRESA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-39" value="COMEÇA COM 0%,&lt;br&gt;EMBORA POSSAM CHEGAR EM 50%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-40" value="MODELO&amp;nbsp;&lt;br&gt;CLIFF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1765" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-41" value="CLIF DE 1 ANO&lt;br&gt;COMEÇA COM 0%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-42" value="MODELO&amp;nbsp;&lt;br&gt;MEDIA FOR EQUITY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1905" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghX556LVwRt2pYmYrKnP-43" target="ghX556LVwRt2pYmYrKnP-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-43" value="INFLUCIADOR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghX556LVwRt2pYmYrKnP-44" target="ghX556LVwRt2pYmYrKnP-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-44" value="COMEÇA COM 20%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-46" value="DEPOIS DE X ANOS ELE PODE TIRAR ESSES 20% OU MANTER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-48" value="ANO 1, CADA UM ADQUIRE 25%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-49" value="ANO 1 EM DIANTE, 12,5% ATÉ COMPLETAR 50%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="772" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="1640" as="sourcePoint" />
+            <mxPoint x="1190" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-51" value="&lt;p&gt;Em vez de receber toda a participação acionária de uma vez, o indivíduo &quot;ganha&quot; essa participação ao longo de um período definido. Isso significa que, se alguém sair da empresa antes de completar o período total de vesting, não levará toda a participação prevista.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="1620" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-52" value="A CADA ANO AUMENTA 1% ATÉ 5%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-53" value="SE SAIR NO 3 ANO, ELE SÓ TERA 3%" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="1785" as="sourcePoint" />
+            <mxPoint x="1080" y="1785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-58" value="&lt;p&gt;O cliff protege a empresa de investir em alguém que possa sair cedo demais. Garante que apenas aqueles que permanecem além do período inicial começam a receber participação.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="1765" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="1920" as="sourcePoint" />
+            <mxPoint x="1100" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-60" value="&lt;p&gt;&lt;strong&gt;Por que é vantajoso?&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Para a startup:&lt;/strong&gt; Acesso a publicidade de alto impacto sem custo inicial.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Para a empresa de mídia/influenciador:&lt;/strong&gt; Potencial de ganhos significativos se a startup crescer.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="1900" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-62" value="DA RUIM ASSIM" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghX556LVwRt2pYmYrKnP-63" target="ghX556LVwRt2pYmYrKnP-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1114" y="1470" />
+              <mxPoint x="1114" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-63" value="pilhado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1420" width="54" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-64" value="cansado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1212" y="1420" width="54" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
