@@ -1,11 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="v-NSc_a17lzua8ZPdPV9">
-    <mxGraphModel dx="2008" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ewivjqRAt1fiGgjTWkvi-1" value="ds" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="ghX556LVwRt2pYmYrKnP-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="670" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="660" height="304.62" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Buscando ideias&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ghX556LVwRt2pYmYrKnP-3" target="ghX556LVwRt2pYmYrKnP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;OnlyFans (ideia base)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ghX556LVwRt2pYmYrKnP-4" target="ghX556LVwRt2pYmYrKnP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Nichar&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghX556LVwRt2pYmYrKnP-5" target="ghX556LVwRt2pYmYrKnP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Gists do Github&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="250" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;OnlyGists (ideia)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;QUAL ICP (ideal customer profile) para o nosso OnlyGists?&amp;nbsp; &amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-17" value="Persona" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="720" width="54" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghX556LVwRt2pYmYrKnP-18" target="ghX556LVwRt2pYmYrKnP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Persona do comprador&lt;/h1&gt;&lt;p&gt;Ele é um cara que tem Gists de variados assuntos, vários scripts,&amp;nbsp; varios truques, (ele sabe usar Github e criar Gists)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ghX556LVwRt2pYmYrKnP-19" value="Logo o &lt;font color=&quot;#2cff14&quot;&gt;&lt;b&gt;&lt;u&gt;CRIADOR DE GISTS&lt;/u&gt;&lt;/b&gt; &lt;/font&gt;é a nossa persona para assinar nosso&amp;nbsp;&lt;b&gt;OnlyGists e vender o link para galerinha&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="750" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
