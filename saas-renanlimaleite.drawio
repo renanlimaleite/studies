@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="v-NSc_a17lzua8ZPdPV9">
-    <mxGraphModel dx="869" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="598" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nUb2ECJCDusPR1pJdT_b-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="2610" width="480" height="470" as="geometry" />
+        <mxCell id="nUb2ECJCDusPR1pJdT_b-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="3670" width="480" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="nUb2ECJCDusPR1pJdT_b-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="2100" width="1080" height="450" as="geometry" />
+        <mxCell id="nUb2ECJCDusPR1pJdT_b-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="3160" width="1080" height="450" as="geometry" />
         </mxCell>
         <mxCell id="ghX556LVwRt2pYmYrKnP-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1350" width="1180" height="690" as="geometry" />
@@ -300,20 +300,26 @@
         <mxCell id="PgS0Zx-J8WMUfajgox_8-47" value="&lt;u&gt;&lt;b&gt;Visualizar listagem de todos os creators&lt;/b&gt;&lt;/u&gt; (feat a mais) - fora do MVP" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="917" y="2740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nUb2ECJCDusPR1pJdT_b-1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Criação de critérios de aceite e precificação (DER e DOD)&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="2120" width="630" height="40" as="geometry" />
+        <mxCell id="nUb2ECJCDusPR1pJdT_b-1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Criação de critérios de aceite e precificação (DER e DOD)&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="3180" width="630" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nUb2ECJCDusPR1pJdT_b-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Eu como criador (DOD) -&amp;gt; Definition of Done&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;quero conseguir criar e entrar na minha conta&lt;br&gt;&lt;/li&gt;&lt;li&gt;quero conseguir editar meu perfil&lt;br&gt;- foto de perfil&lt;br&gt;- nome&lt;br&gt;- bio&lt;br&gt;- site&lt;br&gt;- endereço&lt;br&gt;- githubUrl&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;quero ter um perfil público para mostrar meus gists&lt;/li&gt;&lt;li&gt;quero poder ver a listagem dos meus gists&lt;/li&gt;&lt;li&gt;quero poder ver um detalhe de um gist&lt;/li&gt;&lt;li&gt;quero poder criar um gists com as seguites opções&lt;br&gt;pago ou free&lt;br&gt;titulo&lt;br&gt;descrição (markdown)&lt;br&gt;lang&lt;br&gt;valores ($5, $10, $25)&lt;br&gt;conteudo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="2180" width="520" height="340" as="geometry" />
+        <mxCell id="nUb2ECJCDusPR1pJdT_b-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Eu como criador (DOD) -&amp;gt; Definition of Done&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;quero conseguir criar e entrar na minha conta&lt;br&gt;&lt;/li&gt;&lt;li&gt;quero conseguir editar meu perfil&lt;br&gt;- foto de perfil&lt;br&gt;- nome&lt;br&gt;- bio&lt;br&gt;- site&lt;br&gt;- endereço&lt;br&gt;- githubUrl&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;quero ter um perfil público para mostrar meus gists&lt;/li&gt;&lt;li&gt;quero poder ver a listagem dos meus gists&lt;/li&gt;&lt;li&gt;quero poder ver um detalhe de um gist&lt;/li&gt;&lt;li&gt;quero poder criar um gists com as seguites opções&lt;br&gt;pago ou free&lt;br&gt;titulo&lt;br&gt;descrição (markdown)&lt;br&gt;lang&lt;br&gt;valores ($5, $10, $25)&lt;br&gt;conteudo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="3240" width="520" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="nUb2ECJCDusPR1pJdT_b-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Eu como Comprador (DOD) -&amp;gt; Definition of Done&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;quero poder ver o perfil de um criador&lt;/li&gt;&lt;li&gt;quero poder navegar na listagem de gists dele&lt;/li&gt;&lt;li&gt;quero poder ver o detalhe de um gist&lt;/li&gt;&lt;li&gt;quero poder comprar um gist e receber por e-mail&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="2180" width="520" height="160" as="geometry" />
+        <mxCell id="nUb2ECJCDusPR1pJdT_b-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Eu como Comprador (DOD) -&amp;gt; Definition of Done&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;quero poder ver o perfil de um criador&lt;/li&gt;&lt;li&gt;quero poder navegar na listagem de gists dele&lt;/li&gt;&lt;li&gt;quero poder ver o detalhe de um gist&lt;/li&gt;&lt;li&gt;quero poder comprar um gist e receber por e-mail&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="850" y="3240" width="520" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="nUb2ECJCDusPR1pJdT_b-5" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Como ganhamos dinheiro (precificação)&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="2630" width="630" height="40" as="geometry" />
+        <mxCell id="nUb2ECJCDusPR1pJdT_b-5" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Como ganhamos dinheiro (precificação)&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="3690" width="630" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nUb2ECJCDusPR1pJdT_b-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;# tarifas do stripe&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;transação = 3,99% + R$ 0,39&lt;br&gt;repasse = (0,25% + R$ 0,67)/repasse + R$ 7 conta ativa&lt;/div&gt;&lt;div&gt;lucro que queremos = R$ 3 reais por gist&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;## Simulando da transação&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;R$ 5,00 + 3,99% + R$0,39 = R$ 5,5895&lt;br&gt;&lt;/div&gt;&lt;div&gt;R$ 5,5895 + R$ 3,00 = R$ 8,5895&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;## Validação =&amp;gt;&amp;nbsp;&lt;br&gt;&lt;div&gt;R$ 8,5895 - R$ 3,00 = 5,5895&lt;br&gt;0,1995 (3,99% de 5) + R$ 0,39 = 0,5895&lt;br&gt;R$ 5,5895 - 0,5895 = 5&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;## Simulação de repasse&lt;br&gt;Tenho 100 reais para retirar&lt;br&gt;&lt;br&gt;0,25% de 100 -&amp;gt; 0,25 + 0,67 + R$ 7 = R$ 7,92&lt;/div&gt;&lt;div&gt;R$ 100 - R$ 7,92 = R$92,08&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="2670" width="330" height="370" as="geometry" />
+        <mxCell id="nUb2ECJCDusPR1pJdT_b-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;# tarifas do stripe&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;transação = 3,99% + R$ 0,39&lt;br&gt;repasse = (0,25% + R$ 0,67)/repasse + R$ 7 conta ativa&lt;/div&gt;&lt;div&gt;lucro que queremos = R$ 3 reais por gist&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;## Simulando da transação&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;R$ 5,00 + 3,99% + R$0,39 = R$ 5,5895&lt;br&gt;&lt;/div&gt;&lt;div&gt;R$ 5,5895 + R$ 3,00 = R$ 8,5895&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;## Validação =&amp;gt;&amp;nbsp;&lt;br&gt;&lt;div&gt;R$ 8,5895 - R$ 3,00 = 5,5895&lt;br&gt;0,1995 (3,99% de 5) + R$ 0,39 = 0,5895&lt;br&gt;R$ 5,5895 - 0,5895 = 5&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;## Simulação de repasse&lt;br&gt;Tenho 100 reais para retirar&lt;br&gt;&lt;br&gt;0,25% de 100 -&amp;gt; 0,25 + 0,67 + R$ 7 = R$ 7,92&lt;/div&gt;&lt;div&gt;R$ 100 - R$ 7,92 = R$92,08&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="3730" width="330" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-1" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Product Market Fit (PMF)&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4180" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-3" value="Product Market Fit ocorre quando nosso produto atende perfeitamente às necessidades do mercado, encontrando uma demanda significativa e indicando que estamos no caminho certo. É importante notar que isso não requer necessariamente um desenvolvimento de software completo; soluções operacionais utilizando softwares básicos, como o Excel, podem ser suficientes para validar o produto inicialmente." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4230" width="280" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
