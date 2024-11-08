@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="v-NSc_a17lzua8ZPdPV9">
-    <mxGraphModel dx="598" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1tomCckrDjy98KWa0ItW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="4180" width="540" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="nUb2ECJCDusPR1pJdT_b-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="3670" width="480" height="470" as="geometry" />
         </mxCell>
@@ -316,10 +319,55 @@
           <mxGeometry x="290" y="3730" width="330" height="370" as="geometry" />
         </mxCell>
         <mxCell id="1tomCckrDjy98KWa0ItW-1" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Product Market Fit (PMF)&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="4180" width="630" height="40" as="geometry" />
+          <mxGeometry x="290" y="4190" width="630" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1tomCckrDjy98KWa0ItW-3" value="Product Market Fit ocorre quando nosso produto atende perfeitamente às necessidades do mercado, encontrando uma demanda significativa e indicando que estamos no caminho certo. É importante notar que isso não requer necessariamente um desenvolvimento de software completo; soluções operacionais utilizando softwares básicos, como o Excel, podem ser suficientes para validar o produto inicialmente." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="4230" width="280" height="130" as="geometry" />
+          <mxGeometry x="290" y="4240" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-6" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;Escolha de Tecnologia &amp;amp; Breakeven&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="4420" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-7" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;No começo seria bom ter um bom fetir (bom free tier) e tecnologias free de fato.&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="4450" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-8" value="Macro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="4570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="345" y="4530" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-10" value="Nuxt/Next" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="4550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-11" value="Tailwind / Primevue&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434.5" y="4550" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-13" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="442" y="4545" width="9.38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-14" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="517.3100000000001" y="4540" width="9.38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-15" value="Supabase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="513.25" y="4550" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-16" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="592.31" y="4540" width="9.38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-17" value="EasyCron" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="587" y="4550" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-18" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="672.31" y="4540" width="9.38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-21" value="Netlify" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="672.3100000000001" y="4550" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-22" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="744.5" y="4540" width="9.38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tomCckrDjy98KWa0ItW-23" value="namecheap" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="752" y="4550" width="97.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
